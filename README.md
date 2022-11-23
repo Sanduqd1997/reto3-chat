@@ -1,6 +1,6 @@
 # Reto 3 Chat Firebase
 
-Este es el Reto 2 del Ciclo 4B Desarrollo de Aplicaciones Móviles de Misión TIC 2022
+Este es el Reto 3 del Ciclo 4B Desarrollo de Aplicaciones Móviles de Misión TIC 2022
 
 Equipo: 6
 
