@@ -12,7 +12,7 @@ Equipo: 6
 
 ## Descripción del Proyecto
 
-El proyecto consiste en un chat usando Firebase y tiene varias pantallas las cuales consisten en
+El proyecto consiste en un chat usando Firebase y tiene varias pantallas las cuales constan de 
 
 1. Login/Registro: En esta pantalla se encuentra el login y registro, en el cual se necesita el usuario (email) y una contraseña y al hacer click en el botón correspondiente se ingresa o registra a la aplicación.
 2. Chat: En esta pantalla se encuentra el chat en donde se escribe el mensaje y se envía, en este mismo está el botón para salirse y volver a la pantalla de Login/Registro.
