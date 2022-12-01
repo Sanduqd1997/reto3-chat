@@ -20,4 +20,4 @@ El proyecto consiste en un chat usando Firebase y tiene varias pantallas las cua
 
 ## Demo del proyecto
 
-Pendiente
+<img src= "https://github.com/LuisaFernandaPerez/Reto-3-Chat/blob/main/Reto-3-Chat.gif">
